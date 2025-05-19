@@ -12,7 +12,7 @@ title                    : "Daniel Harrington"
 title_separator          : "-"
 name                     : &name "Daniel Harrington"
 description              : &description "Physics and mathematics student at Tufts"
-url                      : https://dmharrington03.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
+# url                      : https://dmharrington03.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
 
